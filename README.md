@@ -15,3 +15,8 @@ The app calculates the following:
 * The greatest decrease in losses (date and amount) over the entire period.
 
 The final result is shown in the console and in the browser.
+# Snapshot
+![console](https://user-images.githubusercontent.com/112564483/220448374-1469f35d-623b-4475-98aa-6a1ba22d076d.JPG)
+
+# Link to live app
+[App](https://mi-str.github.io/Console-Finances)
